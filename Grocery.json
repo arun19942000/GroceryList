@@ -1,0 +1,81 @@
+[
+    {   "Sl.No":"01",
+        "name": "Carrot",
+        "Quantity": "2",
+        "unit": "Kg",
+        "Department": "vegetables",
+        "Note": "Need to be Fresh"
+    },
+    {
+        "Sl.No":"02",
+        "name": "onion",
+        "Quantity": "1",
+        "unit": "Kg",
+        "Department": "vegetables",
+        "Note": "Need to be Fresh"
+    },
+    {
+        "Sl.No":"03",
+        "name": "Milk",
+        "Quantity": "500",
+        "unit": "ml",
+        "Department": "Diary",
+        "Note": "Brand:Milma"
+    },
+    {
+        "Sl.No":"04",
+        "name": "Chicken",
+        "Quantity": "2",
+        "unit": "kg",
+        "Department": "Poultry",
+        "Note": "Need to be Fresh"
+    },
+    {
+        "Sl.No":"05",
+        "name": "Avocado",
+        "Quantity": "1",
+        "unit": "kg",
+        "Department": "Fruits and Vegetables",
+        "Note": "Imported"
+    },
+    {
+        "Sl.No":"06",
+        "name": "Sugar",
+        "Quantity": "1",
+        "unit": "kg",
+        "Department": "Baking",
+        "Note": "Need to be Fresh"
+    },
+    {
+        "Sl.No":"07",
+        "name": "Fish",
+        "Quantity": "1",
+        "unit": "kg",
+        "Department": "Poultry",
+        "Note": "Need to be Fresh"
+    },
+    {
+        "Sl.No":"08",
+        "name": "Apple",
+        "Quantity": "1",
+        "unit": "kg",
+        "Department": "Fruits",
+        "Note": "Need to be Fresh"
+    },
+    {
+        "Sl.No":"09",
+        "name": "Chilly Powder",
+        "Quantity": "100",
+        "unit": "gm",
+        "Department": "spices",
+        "Note": "Kashmiri"
+    },
+    {
+        "Sl.No":"10",
+        "name": "Pottato",
+        "Quantity": "2",
+        "unit": "kg",
+        "Department": "Vegetables",
+        "Note": "Need to be Fresh"
+    }
+]
